@@ -1,0 +1,1 @@
+web: Voila --port=$PORT --no-browser=True --enable_nbextensions=True notebooks/geemap.ipynb
